@@ -43,13 +43,12 @@
 </div>
 
 <p align="center">
-	<a href="mailto:abasiomofonudoh@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail" height="50" width="50"/></a>
-	<a href="https://github.com/Omofon"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub" height="50" width="50"/></a>
-	<a href="https://wa.me/+2347019575109"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp" height="50" width="50"/></a>
-	<a href="https://www.linkedin.com/in/abasiomofon-udoh-b2483a266/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn" height="50" width="50"/></a>
-	<a href="https://web.facebook.com/profile.php?id=100087552244749"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook" height="50" width="50"/></a>
-	<a href="https://www.instagram.com/omofon_u/?next=%2F"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram" height="50" width="50"/></a>
-	<a href="https://discord.gg/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
+	<a href="mailto:abasiomofonudoh@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail" /></a>
+	<a href="https://github.com/Omofon"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub" /></a>
+	<a href="https://wa.me/+2347019575109"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp" /></a>
+	<a href="https://www.linkedin.com/in/abasiomofon-udoh-b2483a266/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+	<a href="https://web.facebook.com/profile.php?id=100087552244749"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook" /></a>
+	<a href="https://www.instagram.com/omofon_u/?next=%2F"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
 </br>
