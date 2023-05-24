@@ -40,14 +40,27 @@
   </ul>
 </div>
 
+
+<!--icons and links-->
 <p align="center">
-	<a href="mailto:abasiomofonudoh@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail" /></a>
-	<a href="https://github.com/Omofon"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub" /></a>
-	<a href="https://wa.me/+2347019575109"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp" /></a>
-	<a href="https://www.linkedin.com/in/abasiomofon-udoh-b2483a266/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-	<a href="https://web.facebook.com/profile.php?id=100087552244749"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook" /></a>
-	<a href="https://www.instagram.com/omofon_u/?next=%2F"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="mailto:abasiomofonudoh@gmail.com" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-for-gmail-email-client-mac-app-store-16.png" alt="gmail" height="50" width="50" />
+</a>
+<a href="https://www.linkedin.com/in/abasiomofon-udoh-b2483a266/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
+</a>
+<a href="https://twitter.com/akwaman01" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" />
+</a> 
+<a href="https://www.instagram.com/omofon_u/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" />
+</a>
+<a href="https://web.facebook.com/profile.php?id=100087552244749" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/logo-facebook-png/logo-facebook-facebook-logo-transparent-png-pictures-icons-and-0.png" alt="facebook" height="50" width="50" />
+</a>
 </p>
+
+<!--profile visit count-->
+<div align="center">
+  
+[![](https://visitcount.itsvg.in/api?id=Omofon&icon=3&color=6)](https://visitcount.itsvg.in)
+  
+</div>
 
 </br>
 <hr style="height:2px;#8080ffborder-width:0;border-radius: 5px;color:gray;background-color:#8080ff">
@@ -78,27 +91,6 @@
 <hr style="height:2px;#8080ffborder-width:0;border-radius: 5px;color:gray;background-color:#8080ff">
 </br>
 
-
-<!--icons and links-->
-<p align="center">
-<a href="mailto:abasiomofonudoh@gmail.com" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-for-gmail-email-client-mac-app-store-16.png" alt="gmail" height="50" width="50" />
-</a>
-<a href="https://www.linkedin.com/in/abasiomofon-udoh-b2483a266/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
-</a>
-<a href="https://twitter.com/akwaman01" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" />
-</a> 
-<a href="https://www.instagram.com/omofon_u/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" />
-</a>
-<a href="https://web.facebook.com/profile.php?id=100087552244749" target="blank"><img align="center" src="" alt="facebook" height="50" width="50" />
-</a>
-</p>
-
-<!--profile visit count-->
-<div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=Omofon&icon=3&color=6)](https://visitcount.itsvg.in)
-  
-</div>
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
