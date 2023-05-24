@@ -18,8 +18,6 @@
 
 - 👀 I’m interested in **Backend Development, Cloud Management and many more** 😄<br/>
 
-- 🌱 Trying to learn new technologies and keep myself busy 🤵🏻 <br/>
-
 - 🌱 I’m currently learning **Django with Meta.**
 
 - 👨🏻‍💻 Currently developing and maintaining backend applications 📱</br>
@@ -83,7 +81,7 @@
 
 <!--icons and links-->
 <p align="center">
-<a href="mailto:abasiomofonudoh@gmail.com" target="blank"><img align="center" src="" alt="gmail" height="50" width="50" />
+<a href="mailto:abasiomofonudoh@gmail.com" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-for-gmail-email-client-mac-app-store-16.png" alt="gmail" height="50" width="50" />
 </a>
 <a href="https://www.linkedin.com/in/abasiomofon-udoh-b2483a266/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
 </a>
