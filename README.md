@@ -13,7 +13,7 @@
 
 - 👀 I’m interested in **Backend Development, Cloud Management and many more** 😄<br/>
 
-- 🌱 I’m currently learning **Django with Meta.**
+- ✔️ **Meta Certified Django Developer.** <br />
 
 - 👨🏻‍💻 Currently developing and maintaining backend applications 📱</br>
 
