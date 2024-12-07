@@ -10,15 +10,15 @@
 
 <!-- Intro Section -->
 <p align="center">
-  - 👀 I’m interested in __Backend Development, Cloud Management, AI/ML integration, and more__ 😄<br/>
-  - ✔️ __Meta Certified Django Developer__<br/>
+  - 👀 I’m interested in <strong>Backend Development, Cloud Management, AI/ML integration, and more</strong> 😄<br/>
+  - ✔️ <strong>Meta Certified Django Developer</strong><br/>
   - 👨🏻‍💻 Currently developing and maintaining backend applications 📱<br/>
-  - 🤖 Integrated __AI/ML models__ like OpenAI, Google Generative AI, and Hugging Face Transformers<br/>
-  - 💻 Skilled in __containerization__ using Docker and Kubernetes<br/>
-  - 💾 Worked extensively with __SQL (PostgreSQL, MySQL)__ and __NoSQL (MongoDB)__ databases<br/>
-  - ☁️ Deployed applications on __AWS__, using services like __S3 buckets__ and EC2 for scalable hosting<br/>
-  - 💞️ Open to collaborating on exciting projects ✌🏻<br/>
-  - 📫 Reach out to me through my social links below! 😁👇🏻<br/>
+  - 🤖 Integrated <strong>AI/ML models</strong> like OpenAI, Google Generative AI, and Hugging Face Transformers<br/>
+  - 💻 Skilled in <strong>containerization</strong> using Docker and Kubernetes<br/>
+  - 💾 Worked extensively with <strong>SQL (PostgreSQL, MySQL)</strong> and <strong>NoSQL (MongoDB)</strong> databases<br/>
+  - ☁️ Deployed applications on <strong>AWS</strong>, using services like <strong>S3 buckets</strong> and EC2 for scalable hosting<br/>
+  - ☑️ Open to collaborating on exciting projects ✌🏻<br/>
+  - 📫 Reach out to me through my social links below! 👇🏻<br/>
 </p>
 
 </br>
@@ -43,8 +43,11 @@
 
 <!-- Profile Visit Count -->
 <div align="center">
-  [![](https://visitcount.itsvg.in/api?id=Omofon&icon=3&color=6)](https://visitcount.itsvg.in)
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=Omofon&icon=3&color=6" alt="Profile Visit Count">
+  </a>
 </div>
+
 
 </br>
 <hr style="height:2px;#8080ff;border-width:0;border-radius:5px;color:gray;background-color:#8080ff">
