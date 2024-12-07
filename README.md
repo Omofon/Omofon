@@ -10,13 +10,13 @@
 
 <!-- Intro Section -->
 <p align="center">
-  - 👀 I’m interested in **Backend Development, Cloud Management, AI/ML integration, and more** 😄<br/>
-  - ✔️ **Meta Certified Django Developer**<br/>
+  - 👀 I’m interested in __Backend Development, Cloud Management, AI/ML integration, and more__ 😄<br/>
+  - ✔️ __Meta Certified Django Developer__<br/>
   - 👨🏻‍💻 Currently developing and maintaining backend applications 📱<br/>
-  - 🤖 Integrated **AI/ML models** like OpenAI, Google Generative AI, and Hugging Face Transformers<br/>
-  - 💻 Skilled in **containerization** using Docker and Kubernetes<br/>
-  - 💾 Worked extensively with **SQL (PostgreSQL, MySQL)** and **NoSQL (MongoDB)** databases<br/>
-  - ☁️ Deployed applications on **AWS**, using services like **S3 buckets** and EC2 for scalable hosting<br/>
+  - 🤖 Integrated __AI/ML models__ like OpenAI, Google Generative AI, and Hugging Face Transformers<br/>
+  - 💻 Skilled in __containerization__ using Docker and Kubernetes<br/>
+  - 💾 Worked extensively with __SQL (PostgreSQL, MySQL)__ and __NoSQL (MongoDB)__ databases<br/>
+  - ☁️ Deployed applications on __AWS__, using services like __S3 buckets__ and EC2 for scalable hosting<br/>
   - 💞️ Open to collaborating on exciting projects ✌🏻<br/>
   - 📫 Reach out to me through my social links below! 😁👇🏻<br/>
 </p>
